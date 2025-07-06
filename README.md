@@ -36,6 +36,9 @@ Fungsionalitas Asisten (Admin)
 - Login Asisten
 ![Login Asisten](https://github.com/user-attachments/assets/5c3d3254-eeab-4a23-8f63-7b400ccc23f0)
 
+- Dashboard
+![Dashboard Asisten](https://github.com/user-attachments/assets/d22445ad-05a1-484d-bc82-fb60f117c97e)
+
 - Mengelola Mata Praktikum:
 1. Tambah Mata Praktikum
 ![Nambah mata praktikum](https://github.com/user-attachments/assets/cdecaf48-51d0-4dec-aec7-ca2b2980f4fc)
